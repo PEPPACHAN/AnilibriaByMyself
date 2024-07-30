@@ -11,7 +11,7 @@ import SwiftUI
 struct AnilibriaByMyselfApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ListOfTitles()
         }
     }
 }
